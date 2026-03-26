@@ -6,7 +6,7 @@
   > + _Autor_: Curro Bonet-García (fjbonet@uco.es)
   > + Duración: Una hora.
 
-  ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/2025_2026/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/2025-2026/imagenes/portada.jpg)
 
 [TOC]
 
@@ -27,15 +27,15 @@ El objetivo de aprendizaje general es aquirir una serie de ideas básicas para e
 
 ## 2 Método de trabajo
 
-Este guión es el resultado de aplicar las instrucciones para realizar [este](https://rawcdn.githack.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025_2026/guion_preparar_clase_invertida.html) ejercicio. En un intento de ejemplificar lo que tenéis que hacer en dicho ejercicio, yo apliqué el mismo método. Lo que veis a continuación es el resultado obtenido al utilizar las IAs como método de aprendizaje y no como instrumento para generar contenido de manera sencilla y poco dirigida. 
+Este guión es el resultado de aplicar las instrucciones para realizar [este](https://rawcdn.githack.com/aprendiendo-cosas/A_clase_invertida_gesteco_ccaa/2025-2026/guion_preparar_clase_invertida.html) ejercicio. En un intento de ejemplificar lo que tenéis que hacer en dicho ejercicio, yo apliqué el mismo método. Lo que veis a continuación es el resultado obtenido al utilizar las IAs como método de aprendizaje y no como instrumento para generar contenido de manera sencilla y poco dirigida. 
 
-El texto que puedes ver en los siguientes apartados es el resultado de transcribir con una IA el audio de la clase impartida. [Aquí](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/2025_2026/presentacion/gestion_pesquerias_notebookLM.pptx) puedes ver la presentación que se usó como guía en dicha sesión.
+El texto que puedes ver en los siguientes apartados es el resultado de transcribir con una IA el audio de la clase impartida. [Aquí](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/2025-2026/presentacion/gestion_pesquerias_notebookLM.pptx) puedes ver la presentación que se usó como guía en dicha sesión.
 
 
 
-## Contenidos de la sesión
+## 3 Contenidos de la sesión
 
-### 2.1 Definición y objetivos del ámbito de gestión con el que estamos trabajando
+### 3.1 Definición y objetivos del ámbito de gestión con el que estamos trabajando
 
 La gestión de pesquerías se define como el conjunto de procesos dirigidos a regular la extracción de recursos biológicos marinos, enfrentándose al reto continuo de armonizar un sistema multiobjetivo que en la práctica puede generar conflictos y requerir procesos de compensación (trade-offs). Esta gestión ecosistémica persigue el equilibrio de tres grandes pilares:
 
@@ -43,13 +43,13 @@ La gestión de pesquerías se define como el conjunto de procesos dirigidos a re
 + Objetivos económicos (eficiencia): que buscan maximizar el beneficio neto de la actividad extractiva para que esta resulte rentable y promueva el desarrollo económico de las comunidades costeras.
 + Objetivos sociales (equidad y empleo): que aseguran que la actividad pesquera sostiene el tejido social de los actores dependientes, fomentando el empleo y evitando situaciones de exclusión.
 
-### 2.2 Fundamentos científicos que sustentan en la actualidad las herramientas de gestión
+### 3.2 Fundamentos científicos que sustentan en la actualidad las herramientas de gestión
 
 La base teórica de la gestión pesquera descansa sobre los principios de la ecología de poblaciones. El modelo de crecimiento logístico establece que las poblaciones crecen hasta que los factores dependientes de la densidad y la competencia intraespecífica frenan su expansión al acercarse a la capacidad de carga K del medio. Ecológicamente, el momento de mayor reclutamiento y tasa de crecimiento se da cuando el tamaño poblacional ronda la mitad de su capacidad K/2.
 
 Las estrategias de explotación demuestran que tiene mayor sentido biológico extraer individuos de la parte alta de la curva de crecimiento, es decir, individuos adultos, liberando recursos para que los especímenes restantes puedan reproducirse y la población se recupere rápidamente. Esto da lugar al concepto de producción excedente, donde la biomasa nueva generada (a través del RMS) puede ser extraída sostenidamente. Actualmente, a estos principios se incorpora la Teoría de sistemas, que da paso al enfoque ecosistémico de la pesca. Este enfoque comprende que el uso sostenible debe considerar las redes tróficas, el impacto sobre el hábitat y la resiliencia del ecosistema, aplicando el principio de precaución y el análisis multicriterio para evaluar el riesgo ante la incertidumbre y tomar decisiones informadas sobre las compensaciones entre objetivos.
 
-### 2.3 Métodos y técnicas usadas actualmente en el ámbito temático asignado
+### 3.3 Métodos y técnicas usadas actualmente en el ámbito temático asignado
 
 Las técnicas empleadas para regular la presión extractiva se dividen fundamentalmente en modelos de control de salidas, de entradas, y ordenación técnica y espacial:
 
@@ -57,7 +57,7 @@ Las técnicas empleadas para regular la presión extractiva se dividen fundament
 - Controles de entrada: Regulan el esfuerzo pesquero nominal, limitando el número de licencias, los días de mar, o la potencia y tamaño de las artes de pesca. Esto se equipara a la "extracción por esfuerzo fijo", una técnica más segura biológicamente porque es flexible frente a los cambios de las poblaciones, aunque se traduce en capturas más variables a lo largo del tiempo.
 - Medidas técnicas y espaciales: Modulan la operatividad mediante vedas temporales (esenciales para los periodos de desove), delimitación de zonas de exclusión (reservas marinas de interés pesquero) y la mejora en la selectividad de los artes de pesca para regular por tallas.
 
-### 2.4 Breve historia del ámbito de gestión en cuestión
+### 3.4 Breve historia del ámbito de gestión en cuestión
 
 La evolución de la disciplina pesquera refleja un cambio desde modelos simplistas centrados en una sola especie hacia el paradigma ecosistémico contemporáneo:
 
@@ -67,7 +67,7 @@ La evolución de la disciplina pesquera refleja un cambio desde modelos simplist
 4. Era del desencanto y enfoque precautorio (1980-2000): Se producen colapsos dramáticos (como el del bacalao en Terranova en 1992), lo que demuestra las limitaciones de los modelos monoespecíficos. Nace el principio de precaución y el Código de Conducta de la FAO.
 5. Enfoque ecosistémico y climático (2000-actualidad): Se consolida la modelización bioinformática considerando que la capacidad de carga K no es constante y que está fuertemente alterada por las variaciones climáticas y las interacciones tróficas. También se incorpora en los estudios el efecto que tiene el cambio climático sobre la dinámica poblacional de las especies de interés pesquero.
 
-### 2.5 Marco legal en Europa, España y Andalucía
+### 3.5 Marco legal en Europa, España y Andalucía
 
 La ordenación de los recursos, al estar situados en un medio sin fronteras interiores, recae enteramente sobre las administraciones públicas y tratados supranacionales:
 
@@ -76,11 +76,11 @@ La ordenación de los recursos, al estar situados en un medio sin fronteras inte
 - Escala Española: Basada en la Ley 5/2023, de pesca sostenible e investigación pesquera, que afianza la sostenibilidad en su triple dimensión e institucionaliza el vínculo ineludible entre el asesoramiento científico y la política pesquera. Se consolida legalmente la gestión de cuotas transmisibles, los censos por caladero y la protección en forma de reservas marinas.
 - Escala Andaluza: El gobierno autonómico ejerce competencia exclusiva en las aguas interiores, el marisqueo y la acuicultura, siendo un actor clave en los ecosistemas estuarinos y de litoral cercano.
 
-### 2.6 Ejemplos relevantes en nuestro entorno: El Atún Rojo en Cádiz
+### 3.6 Ejemplos relevantes en nuestro entorno: El Atún Rojo en Cádiz
 
 El caso del atún rojo (*Thunnus thynnus*) en el Golfo de Cádiz ilustra la aplicación real de estos modelos. Ecológicamente es un depredador apical altamente migratorio que transita del Atlántico al Mediterráneo para desovar, momento aprovechado para su captura, principalmente mediante el arte tradicional de la almadraba. Su pesquería atravesó una grave crisis entre 1990 y 2006 debido a la sobrepesca comercial de especímenes juveniles. La amenaza inminente de inclusión en los apéndices de CITES propició una fase de "mano de hierro" (2007-2018), en la que las organizaciones internacionales impusieron planes de recuperación muy restrictivos: incrementos drásticos en la talla mínima, sistemas rigurosos de trazabilidad, y la imposición de vedas temporales estrictas al arte de cerco. Gracias a estas medidas y a una intensa monitorización científica (marcaje por satélite, biometría sistemática en cada evento de pesca), hoy en día se transita por una fase de estabilidad fundamentada en modelos matemáticos multivariables que fijan cuotas cautelares.
 
-### 2.7 Retos relevantes que tenga el ámbito de gestión asignado
+### 3.7 Retos relevantes que tenga el ámbito de gestión asignado
 
 A la luz de los conocimientos expuestos, el manejo actual de las pesquerías afronta los siguientes retos contemporáneos:
 
@@ -95,11 +95,10 @@ A la luz de los conocimientos expuestos, el manejo actual de las pesquerías afr
 
 ---
 
+[Aquí](https://github.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
-  [Aquí](https://github.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
-
-  Haz click [aquí](https://github.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/Te_gestion_pesquerias_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 
    <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
